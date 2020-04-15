@@ -5,6 +5,7 @@
 *.factorypath
 *.project
 /settings/
+/.theia/
 
 *.settings/
 # Log file
